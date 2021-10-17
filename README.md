@@ -1,7 +1,7 @@
 # School Management System JAVA Swift GUI
 
 TEAMMATES:
-HannanAhmad(2094868), Akhila(2094068), Bhoopathi(2095405)
+HannanAhmad(2094868)
 
 INSTRUCTION:
 
