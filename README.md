@@ -1,6 +1,6 @@
 # School Management System JAVA Swift GUI
 
-Author: HannanAhmad(2094868)
+Author: Hannan Max
 
 INSTRUCTION:
 
