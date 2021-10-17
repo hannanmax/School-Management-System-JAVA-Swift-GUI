@@ -4,37 +4,38 @@ TEAMMATES:
 HannanAhmad(2094868), Akhila(2094068), Bhoopathi(2095405)
 
 INSTRUCTION:
-	MOST IMPORTANT:
-		1) Teacher Past Courses & Student Past Courses:
-			Every time program is executed or any new activity is being open
-			the program checks for ended courses, if ended course are found
-			then the teacher current course is move to past course,
-			same with student current course is move to past courses
 
-		2) Show Attendance:
-			You can only view attendance if course has started.
-			
-		3) Grades:
-			Specific student grades can be added to course infinite amount of
-			time if course has not ended.
-			
-		4) Add Course to student Limit:
-			if course already have 5 student than you can not add more student
-			to course.
-			
-		5) Current Course limits:
-			5.1) Teacher can only have two courses at a time
-			5.2) Student can only have three courses at a time
-		
-		6) Assign Class button in "View Student" student list:
-			if student already has 3 courses the Assign class button will 
-			not apprear
-		
-		7) Remove Class button in "View Student" student list:
-			if student do have any current courses Remove from class button
-			will not apprear
+	1) Teacher Past Courses & Student Past Courses:
+		Every time program is executed or any new activity is being open
+		the program checks for ended courses, if ended course are found
+		then the teacher current course is move to past course,
+		same with student current course is move to past courses
+
+	2) Show Attendance:
+		You can only view attendance if course has started.
+
+	3) Grades:
+		Specific student grades can be added to course infinite amount of
+		time if course has not ended.
+
+	4) Add Course to student Limit:
+		if course already have 5 student than you can not add more student
+		to course.
+
+	5) Current Course limits:
+		5.1) Teacher can only have two courses at a time
+		5.2) Student can only have three courses at a time
+
+	6) Assign Class button in "View Student" student list:
+		if student already has 3 courses the Assign class button will 
+		not apprear
+
+	7) Remove Class button in "View Student" student list:
+		if student do have any current courses Remove from class button
+		will not apprear
 		
 NAVIGATION:
+
 	1) View Courses
 		MainScreen > View Courses
 	
